@@ -18,7 +18,7 @@ Contains logic to get pending/paid loan repayments and repay a specific repaymen
 
 
 ## Project structure DFD
-Mini-Aspire-Loan.drawio.png
+[Mini-Aspire-Loan.drawio.png](https://github.com/sandeep26092016/test-app/blob/main/Mini-Aspire-Loan.drawio.png)
 
 I have used laravel sail for development
 
@@ -26,7 +26,7 @@ I have used laravel sail for development
 
 After git pull on local
 
-execute below command
+execute below command outside git folder
 
 ```
 curl -s https://laravel.build/test-app | bash
@@ -40,7 +40,7 @@ multiple times it takes time initially once setup it will start fast next timeon
 
 ## Postman collection
 
-./Mini-Aspire.postman_collection.json
+[Mini-Aspire.postman_collection.json](https://github.com/sandeep26092016/test-app/blob/main/Mini-Aspire.postman_collection.json)
 
 I have setup token variable in collection which is set once you call login api and then after it will set to all api header
 
